@@ -1,0 +1,62 @@
+.bloc-velo{
+    color: brown;
+    border: solid 5px;
+    margin: 50px;
+    padding: 50px;
+    background-color: bisque;
+}
+
+h1 {
+    color: black;
+}
+.bloc-trot{
+    color: rgb(233, 108, 108);
+    border: solid 5px;
+    margin: 50px;
+    padding: 50px;
+    background-image: url(trottinette.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    color: rgb(89, 0, 0);
+}
+
+.bloc-simplontittle{
+    background-color: gray;
+    padding: 20px;
+    height: 3px;  
+}
+
+
+.bloc-simploncard{
+    
+    color: #df2121;
+    border: solid 4px;
+    padding: 20px;
+    height: 400px;
+    width: cover;
+    text-align: left;
+    background-image: url(https://images.unsplash.com/photo-1516051662687-567d7c4e8f6a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    display: flex;
+    align-items: flex-end;
+}
+
+.bloc-adress{
+    font: 1.2em "Volkorn", serif;
+    background-color: white;
+    height: 50%;
+    width: 50%;
+    text-align: center;
+   
+   
+}
+.bloc-fabien{
+    text-align: center;
+}
